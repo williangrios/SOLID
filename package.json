@@ -1,0 +1,29 @@
+{
+  "name": "solid",
+  "version": "1.0.0",
+  "description": "Solid examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williangrios/SOLID.git"
+  },
+  "keywords": [
+    "solid"
+  ],
+  "author": "Willian Rios",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/williangrios/SOLID/issues"
+  },
+  "homepage": "https://github.com/williangrios/SOLID#readme",
+  "devDependencies": {
+    "@types/node": "^20.4.2",
+    "prettier": "^3.0.0",
+    "ts-loader": "^9.4.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
